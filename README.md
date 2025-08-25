@@ -73,5 +73,5 @@ This project is currently unlicensed. If you'd like to use or modify it, please 
 ---
 
 ## Contact
-
+📧 ibrahimolatomiwa15@gmail.com
 For issues, ideas, or support, feel free to open an issue on GitHub.
